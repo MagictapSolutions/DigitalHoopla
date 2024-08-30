@@ -1,0 +1,129 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Hoopla_1920x1080.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 1080 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Taub Sans Bold (OTF)
+Taub Sans Medium (OTF)
+Zuume SemiBold (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\Personal\Manish\Manish 2\Ingram\Game Background.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 8100K, 1920 by 1080 pixels
+Dimensions: 1945.83 by 1094.529 points 
+Resolution: 71.044 by 71.044 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\Ingram\10k.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3188K, 1052 by 776 pixels
+Dimensions: 234.447 by 172.938 points 
+Resolution: 323.076 by 323.076 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\Ingram\20k.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3664K, 1209 by 776 pixels
+Dimensions: 269.435 by 172.938 points 
+Resolution: 323.076 by 323.076 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\Ingram\20k.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3664K, 1209 by 776 pixels
+Dimensions: 269.435 by 172.938 points 
+Resolution: 323.076 by 323.076 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\Ingram\50k.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3655K, 1206 by 776 pixels
+Dimensions: 268.767 by 172.938 points 
+Resolution: 323.076 by 323.076 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\Ingram\50k.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3655K, 1206 by 776 pixels
+Dimensions: 268.767 by 172.938 points 
+Resolution: 323.076 by 323.076 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\Ingram\RRR logo (1)-01.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 14496K, 2592 by 1909 pixels
+Dimensions: 313.88 by 231.172 points 
+Resolution: 594.571 by 594.571 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\Ingram\RRR logo (1)-01.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 14496K, 2592 by 1909 pixels
+Dimensions: 313.88 by 231.172 points 
+Resolution: 594.571 by 594.571 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\pngegg (17).png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 81314K, 6212 by 3351 pixels
+Dimensions: 565.55 by 456.225 points 
+Resolution: 790.848 by 528.845 pixels per inch
+
+
+D:\Personal\Manish\Manish 2\pngegg (17).png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 81314K, 6212 by 3351 pixels
+Dimensions: 565.55 by 456.225 points 
+Resolution: 790.848 by 528.845 pixels per inch
